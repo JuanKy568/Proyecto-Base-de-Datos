@@ -11,4 +11,7 @@ This repository contains two versions of a Spring Boot project connected to a Po
 
 Both projects demonstrate a basic Spring Boot application configured to connect to a PostgreSQL database using Spring Data JPA.
 
+- MyFirstDBPry : VisualStudio
+- MyFirstDBPry_JD : Apache NetBeans
+
 ---
